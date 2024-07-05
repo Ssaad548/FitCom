@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|c:\\users\\syed saad\\source\\repos\\fitcom\\fitcom\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|solutionrelative:fitcom\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|c:\\users\\syed saad\\source\\repos\\fitcom\\fitcom\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|solutionrelative:fitcom\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|c:\\users\\syed saad\\source\\repos\\fitcom\\fitcom\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|solutionrelative:fitcom\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|c:\\users\\syed saad\\source\\repos\\fitcom\\fitcom\\firebasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|solutionrelative:fitcom\\firebasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|c:\\users\\syed saad\\source\\repos\\fitcom\\fitcom\\statspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|solutionrelative:fitcom\\statspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|c:\\users\\syed saad\\source\\repos\\fitcom\\fitcom\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|solutionrelative:fitcom\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|c:\\users\\syed saad\\source\\repos\\fitcom\\fitcom\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|solutionrelative:fitcom\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|c:\\users\\syed saad\\source\\repos\\fitcom\\fitcom\\statspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3694E077-CBF9-404C-A5BA-1592402F7F73}|FitCom\\FitCom.csproj|solutionrelative:fitcom\\statspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "FitCom\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\AboutPage.xaml",
+              "RelativeToolTip": "FitCom\\AboutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T14:24:36.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "FitCom\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\MainPage.xaml.cs",
+              "RelativeToolTip": "FitCom\\MainPage.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:04:22.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirebaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\FirebaseHelper.cs",
+              "RelativeDocumentMoniker": "FitCom\\FirebaseHelper.cs",
+              "ToolTip": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\FirebaseHelper.cs",
+              "RelativeToolTip": "FitCom\\FirebaseHelper.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwv5MAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:18:23.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "FitCom\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "FitCom\\ProfilePage.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvzkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:34:48.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\StatsPage.xaml",
+              "RelativeDocumentMoniker": "FitCom\\StatsPage.xaml",
+              "ToolTip": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\StatsPage.xaml",
+              "RelativeToolTip": "FitCom\\StatsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T08:15:17.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\StatsPage.xaml.cs",
+              "RelativeDocumentMoniker": "FitCom\\StatsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\StatsPage.xaml.cs",
+              "RelativeToolTip": "FitCom\\StatsPage.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wDsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:16:10.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "FitCom\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\ProfilePage.xaml",
+              "RelativeToolTip": "FitCom\\ProfilePage.xaml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T11:34:44.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\MainPage.xaml",
+              "RelativeDocumentMoniker": "FitCom\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Syed Saad\\source\\repos\\FitCom\\FitCom\\MainPage.xaml",
+              "RelativeToolTip": "FitCom\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T06:04:15.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

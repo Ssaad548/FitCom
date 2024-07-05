@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FitCom.StatsPage"
+             Title="Statistics"
+             BackgroundColor="#1E2126">
+    <ScrollView>
+        <VerticalStackLayout Spacing="1" Padding="20,20">
+            <StackLayout>
+                <Label x:Name="greetingLabel" Text="Hi" TextColor="#E8D6B9"
+                VerticalOptions="Start" HorizontalOptions="Start"
+                FontFamily="PoppinsSemibold" FontSize="26" HorizontalTextAlignment="Start"/>
+            </StackLayout>
+
+            <StackLayout Spacing="3" >
+                <!-- Frame for BMI details -->
+                <Frame CornerRadius="10" BackgroundColor="#E8D6B9" Padding="20" Margin="0,16,0,0">
+                    <StackLayout Spacing="4">
+                        <Label Text="BMI Result" TextColor="#411400" HorizontalTextAlignment="Center" FontFamily="PoppinsSemibold" FontSize="18"/>
+                        <Label x:Name="outputResult" Text="0.00" HorizontalTextAlignment="Center" TextColor="Black" />
+                        <Label Text="BMI Status" TextColor="#411400" HorizontalTextAlignment="Center" FontFamily="PoppinsSemibold" FontSize="18"/>
+                        <Label x:Name="outputBmiStatus" Text="Not Available" HorizontalTextAlignment="Center" TextColor="Black"/>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </VerticalStackLayout>
+
+    </ScrollView>
+</ContentPage>

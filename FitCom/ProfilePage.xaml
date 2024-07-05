@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FitCom.ProfilePage"
+             Title="Profile Page"                    
+             BackgroundColor="#1E2126">
+    <ScrollView>
+        <VerticalStackLayout
+        Padding="30,20"
+        Spacing="25">
+
+            <StackLayout>
+                <Label 
+                    Text="Name:" TextColor="#E8D6B9"
+                    VerticalOptions="Center" HorizontalOptions="Start"
+                    FontFamily="PoppinsSemibold" FontSize="19" HorizontalTextAlignment="Start"/>
+                
+                <Entry x:Name="inputName" Placeholder="Full Name"  Keyboard="Text" />
+            </StackLayout>
+
+            <StackLayout>
+                <Label 
+                Text="Weight:" TextColor="#E8D6B9"
+                VerticalOptions="Center" HorizontalOptions="Start"
+                FontFamily="PoppinsSemibold" FontSize="19" HorizontalTextAlignment="Start"/>
+                
+                <Entry x:Name="inputWeight" Placeholder="in kg" Keyboard="Numeric" />
+            </StackLayout>
+
+            <StackLayout>
+                <Label 
+                Text="Height:" TextColor="#E8D6B9"
+                VerticalOptions="Center" HorizontalOptions="Start"
+                FontFamily="PoppinsSemibold" FontSize="19" HorizontalTextAlignment="Start"/>
+                
+                <Entry x:Name="inputHeight" Placeholder="in m" Keyboard="Numeric" />
+            </StackLayout>
+
+            <StackLayout>
+                <Label 
+                    Text="Select Your Goal:" TextColor="#E8D6B9"
+                    VerticalOptions="Center" HorizontalOptions="Start"
+                    FontFamily="PoppinsSemibold" FontSize="19" HorizontalTextAlignment="Start"/>
+                
+                <Picker x:Name="goalPicker" Title="Pick One" SelectedIndexChanged="OnPickerSelectedIndexChanged">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Gain Weight</x:String>
+                            <x:String>Lose Weight</x:String>
+                            <x:String>Gain Muscle</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+
+            </StackLayout>
+
+            <FlexLayout Direction="Row"
+            AlignItems="Center"
+            JustifyContent="SpaceEvenly">
+                <Button x:Name="saveButton" Text="Save" VerticalOptions="CenterAndExpand" HeightRequest="45" WidthRequest="110" CornerRadius="10" BackgroundColor="#269300" Opacity="70" TextColor="White" Clicked="OnSaveButtonClicked" />
+                <Button x:Name="resetButton" Text="Reset" VerticalOptions="CenterAndExpand" HeightRequest="45" WidthRequest="110" CornerRadius="10" BackgroundColor="#820B0B" Opacity="70" TextColor="White" Clicked="OnResetButtonClicked" />
+            </FlexLayout>
+
+       
+        </VerticalStackLayout>
+
+    </ScrollView>
+</ContentPage>
