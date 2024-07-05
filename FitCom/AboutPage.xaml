@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FitCom.AboutPage"
+             Title="About Us"
+             BackgroundColor="#1E2126">
+
+    <VerticalStackLayout Spacing="15" Padding="20,20" Margin="10,0"
+        HorizontalOptions="Center" VerticalOptions="Center">
+        <Label 
+            Text="About FitCom" TextColor="#FD4F00"
+            VerticalOptions="Center" HorizontalOptions="Center"
+            FontFamily="PoppinsSemibold" FontSize="26" HorizontalTextAlignment="Center"/>
+        <Label 
+            Text="FitCom is more than just a fitness app; it's your ultimate companion on the path to wellness. With personalized workout routines, progress tracking, and a supportive community, FitCom empowers individuals of all fitness levels to reach their goals and lead healthier lives."
+            TextColor="White"
+            VerticalOptions="Center" HorizontalOptions="Center"
+            FontFamily="PoppinsRegular" FontSize="16" HorizontalTextAlignment="Center"/>
+        <Label 
+            Text="Developer Info:" TextColor="#FD4F00"
+            VerticalOptions="Center" HorizontalOptions="Center"
+            FontFamily="PoppinsSemibold" FontSize="24" HorizontalTextAlignment="Center"/>
+        <Label 
+            Text="Developed by Syed Saad Bin Saif, FitCom combines cutting-edge technology with a deep understanding of fitness principles to deliver a seamless and effective fitness experience. Our mission is to inspire and support individuals in achieving their fitness aspirations, one workout at a time."
+            TextColor="White"
+            VerticalOptions="Center" HorizontalOptions="Center"
+            FontFamily="PoppinsRegular" FontSize="16" HorizontalTextAlignment="Center"/>
+        <Label 
+            Text="Version:" TextColor="#FD4F00"
+            VerticalOptions="Center" HorizontalOptions="Center"
+            FontFamily="PoppinsSemibold" FontSize="24" HorizontalTextAlignment="Center"/>
+        <Label 
+            Text="Current Version: v0.0.1" TextColor="White"
+            VerticalOptions="Center" HorizontalOptions="Center"
+            FontFamily="PoppinsRegular" FontSize="16" HorizontalTextAlignment="Center"/>
+    </VerticalStackLayout>
+</ContentPage>
